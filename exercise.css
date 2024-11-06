@@ -1,0 +1,16 @@
+body.body1{
+    background-color: #adec54; 
+}
+.heading{
+    background-color: #A5B68D;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.list{
+        background-image: linear-gradient(180deg, #adec54, rgb(192, 225, 182));
+}
+#lists{
+        font-family: "Itim", cursive;
+        font-weight: 1000;
+        font-style: normal;
+}
